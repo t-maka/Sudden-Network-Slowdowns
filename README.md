@@ -86,3 +86,10 @@ DeviceProcessEvents
 📝 Note: This investigation highlights the importance of monitoring outbound connection failures and script executions, which can help in early detection of lateral movement or reconnaissance within a network.
 
 ---
+
+## Created By:
+- **Author Name**: Tinan Makadjibeye  
+- **Author Contact**: [LinkedIn profile](https://www.linkedin.com/in/makadjibeye-tinan)  
+- **Date**: June 2025
+  
+---
